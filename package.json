@@ -1,0 +1,23 @@
+{
+  "name": "abhishek-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Abhishek B S - Machine Learning Engineer",
+  "main": "index.html",
+  "scripts": {
+    "sass": "sass style.scss style.css",
+    "sass:watch": "sass --watch style.scss:style.css",
+    "build": "sass style.scss style.css --style=compressed"
+  },
+  "keywords": [
+    "portfolio",
+    "machine-learning",
+    "deep-learning",
+    "web-development",
+    "responsive"
+  ],
+  "author": "Abhishek B S",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
